@@ -483,14 +483,9 @@ nav {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        gap: 15px;
+        gap: 14px;
     }
 
-    .nav-links {
-        display: flex;
-        gap: 10px;
-    }
-   
     .logo h1 {
         font-size: 20px;
     }
