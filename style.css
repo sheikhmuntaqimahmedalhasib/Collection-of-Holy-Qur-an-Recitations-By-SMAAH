@@ -471,7 +471,7 @@ nav {
     font-size: 22px;
 }
 
-.overlay-content p {
+   .overlay-content p {
     font-size: 16px;
 }
 
@@ -480,14 +480,14 @@ nav {
     }
 
     nav {display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        gap: 14px;
+        gap: 20px;
     }
 
     .logo h1 {
-        font-size: 24px;
+        font-size: 40px;
     }
     
     .f2sec {
